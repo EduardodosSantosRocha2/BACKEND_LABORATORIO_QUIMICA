@@ -4,6 +4,8 @@
 
 >Back-end para o projeto do site para administração de um laboratório de química.<br>
 <a href="https://github.com/EduardodosSantosRocha2/FRONT_LABORATORIO_QUIMICA">Link para o repo do front-end</a>
+<a href="https://github.com/EduardodosSantosRocha2/SCRIPT_LABORATORIO_QUIMICA-">Linka para o script do banco de dados</a>
+
 
 
 Criadores deste projeto: 
