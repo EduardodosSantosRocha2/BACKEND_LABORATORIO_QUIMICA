@@ -28,7 +28,7 @@ Criadores deste projeto:
     </td>
       <td align="center">
         <a href="#">
-          <img src="" width="100px;" alt=""/><br>
+          <img src="https://avatars.githubusercontent.com/u/107363844?v=4" width="100px;" alt=""/><br>
           <sub>
             <b>Eduardo Santos</b>
           </sub>
